@@ -111,7 +111,3 @@ Resposta: [Baseada nos PDFs encontrados na pasta /Documents]
 * [LangChain Docs](https://docs.langchain.com/)
 * [Google Gemini](https://makersuite.google.com/app)
 * [Gradio Docs](https://www.gradio.app/)
-
----
-
-Aluno: **Augusto Scardua Oliveira**
