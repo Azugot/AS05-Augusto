@@ -94,6 +94,7 @@ python main.py
 ```
 
 A interface será aberta automaticamente no navegador (Gradio). Você poderá fazer perguntas com base no conteúdo dos PDFs carregados.
+Hospedada no URL local: " http://127.0.0.1:7860"
 
 ---
 
